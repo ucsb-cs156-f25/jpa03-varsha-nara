@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-varsha-nara
 
 Running at: <https://jpa03-varshanara.dokku-08.cs.ucsb.edu>
 
